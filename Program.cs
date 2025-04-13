@@ -11,6 +11,8 @@ namespace activity1
             double value1, value2, result;
             string selection;
 
+            Console.WriteLine("Welcome user!\n");
+
             Console.WriteLine("Simple Calculator\n");
             Console.WriteLine("Operators: \n    Add(1)\n    Subtract(2)\n    Multiply(3)\n    Divide(4)\n    Exit(5)\n\n");
 
