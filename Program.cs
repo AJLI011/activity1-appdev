@@ -7,6 +7,7 @@ namespace activity1
         static void Main(string[] args)
 
         {
+            //initialized indentifiers
             double value1, value2, result;
             string selection;
 
